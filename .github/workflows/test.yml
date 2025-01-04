@@ -1,4 +1,4 @@
-name: learn-github-actions
+name: Terraform infra provision
 on: [workflow_dispatch]
 jobs:
   just-ls-command:
