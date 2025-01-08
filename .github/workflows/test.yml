@@ -1,5 +1,6 @@
 name: learn-github-actions
-on: [push]
+'on':
+  - push
 jobs:
   just-ls-command:
     runs-on: self-hosted
