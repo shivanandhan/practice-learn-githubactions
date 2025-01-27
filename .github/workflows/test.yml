@@ -1,5 +1,5 @@
 name: learn-github-actions
-on:  [workflow_dispatch]
+on:  [push]
 jobs:
   just-ls-command:
     runs-on: self-hosted
